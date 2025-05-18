@@ -13,19 +13,18 @@ Welcome to my interactive Rock-Paper-Scissors game! Built using HTML, CSS, and J
 
 🚀 Live Demo
 
-🔗 Play Rock-Paper-Scissors Live
 
-🛠️ Tech Stack
+🔗 [View Portfolio Live](http://127.0.0.1:5501/RPS--final.html)
 
 * HTML5
 * CSS3
-* JavaScript (Vanilla)
+* JavaScript 
 
 📬 Contact
 
 Want to share feedback or collaborate?
 
-📧 Email: meghanak12266.com
+📧 Email: meghanak12266@gmail.com
 💼 LinkedIn: [linkedin.com/in/meghanak24](https://linkedin.com/in/meghanak24)
 
 Thanks for playing! 🪨📄✂️
