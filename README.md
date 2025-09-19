@@ -14,7 +14,7 @@ Welcome to my interactive Rock-Paper-Scissors game! Built using HTML, CSS, and J
 🚀 Live Demo
 
 
-🔗 [View demo Live](http://127.0.0.1:5501/RPS--final.html)
+🔗 [View demo Live](http://127.0.0.1:5504/12-rps.html)
 
 * HTML5
 * CSS3
